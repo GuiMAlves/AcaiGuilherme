@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="750c1348-5943-4164-acf4-eebe24b21f81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FranquiaAcaiGui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Acai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PontoAcai.java" afterDir="false" />
+    <list default="true" id="750c1348-5943-4164-acf4-eebe24b21f81" name="Changes" comment="Trabalho Açaí">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/gui_m/IdeaProjects/FranquiaAcaiGui"
+    "last_opened_file_path": "C:/Users/gui_m/IdeaProjects/Zoo"
   }
 }]]></component>
   <component name="RunManager">
@@ -68,6 +61,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679958264205</updated>
     </task>
+    <task id="LOCAL-00001" summary="Trabalho Açaí">
+      <created>1679969151699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679969151699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Trabalho Açaí" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabalho Açaí" />
   </component>
 </project>
